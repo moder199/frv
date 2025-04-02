@@ -1,0 +1,15 @@
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-185.150.85.170:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-45.154.194.148:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-104.244.83.140:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-58.97.241.46:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-103.250.82.245:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-83.229.13.167:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-80.240.120.78:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-121.91.189.75:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-176.119.9.105:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-185.125.193.152:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-119.13.224.187:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-154.30.98.10:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-209.242.213.180:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-176.53.216.91:i5ijlaitrf3p
+brd.superproxy.io:33335:brd-customer-hl_9f557753-zone-freemium-ip-62.241.59.134:i5ijlaitrf3p
